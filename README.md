@@ -11,6 +11,10 @@ Here are some screenshots of the website to show the features.
 
 <img src="https://github.com/xzhan140/YelpCamp/blob/master/screenshot/show_page.png" width="700">
 
+<strong>Campground page with location showed in Google mp</strong>
+
+<img src="https://github.com/xzhan140/YelpCamp/blob/master/screenshot/campground_page.png" width="700">
+
 <strong>New/Edit page for campground to add/modify camground information</strong>
 
 <img src="https://github.com/xzhan140/YelpCamp/blob/master/screenshot/new_page.png" width="700">
