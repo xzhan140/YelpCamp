@@ -6,3 +6,7 @@ Here are some screenshots of the website.
 <strong>Welcome page with background image fading and changing</strong>
 
 <img src="https://github.com/xzhan140/YelpCamp/blob/master/screenshot/welcome_page.png" width="600">
+
+<strong>Home page to show campgrounds and let user to register, login, logout</strong>
+
+<img src="https://github.com/xzhan140/YelpCamp/blob/master/screenshot/show_page.png" width="600">
