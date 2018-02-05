@@ -9,4 +9,4 @@ Here are some screenshots of the website.
 
 <strong>Home page to show campgrounds and let user to register, login, logout</strong>
 
-<img src="https://github.com/xzhan140/YelpCamp/blob/master/screenshot/show_page.png" width="600">
+<img src="https://github.com/xzhan140/YelpCamp/blob/master/screenshot/show_page.png" width="700">
